@@ -10,4 +10,8 @@ module Curses
     LibCurses.noecho()
   end
 
+  def self.endwin()
+    LibCurses.endwin()
+  end
+
 end
