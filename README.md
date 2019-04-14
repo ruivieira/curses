@@ -4,7 +4,6 @@ Crystal bindings to the `curses` library.
 
 ## Installation
 
-
 Add this to your application's `shard.yml`:
 
 ```yaml
@@ -13,14 +12,11 @@ dependencies:
     github: ruivieira/curses
 ```
 
-
 ## Usage
-
 
 ```crystal
 require "curses"
 ```
-
 
 TODO: Write usage instructions here
 
@@ -38,4 +34,5 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[ruivieira]](https://github.com/[your-github-name]) Rui Vieira - creator, maintainer
+- [ruivieira](https://github.com/ruivieira) Rui Vieira - creator, maintainer
+- [Willamin](https://github.com/Willamin) Willamin - contributor
